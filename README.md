@@ -1,25 +1,29 @@
-🤖 AI Chatbot: CodeBuddy
-CodeBuddy is a smart, friendly AI chatbot designed to answer any coding question — even the weird, broken, or half-typed ones.
+💻 What I Code
+I'm a creative developer who builds smart, interactive, and fun web-based tools — from bots that fix broken code to games that teach tech concepts. I like to take messy challenges (like totally wrecked HTML) and turn them into clean, functional, and user-friendly solutions.
 
-Originally created to clean up a heap of glitchy code (thanks, ChatGPT 😅), it now serves as a full-blown code assistant that helps developers fix bugs, understand tricky topics, and write better code from scratch.
+🔧 My Coding Projects Include:
+🤖 AI Chatbots
+I build intelligent bots that answer coding questions, fix code errors, and explain programming concepts like a helpful tutor.
 
-🧠 What CodeBuddy Can Do:
-💬 Answer Any Code Question
-Whether it's HTML, CSS, JavaScript, or Python — CodeBuddy responds like a helpful teammate.
+🧼 Code Cleanup Tools
+I turn messy HTML, CSS, and JavaScript into polished, standards-compliant code — automatically, with explanations.
 
-🪛 Fix Broken Code
-Paste in messy, incomplete, or cursed code — CodeBuddy explains what's wrong and gives you a clean version.
+🎮 Web Games
+I create browser games using only HTML, CSS, and JavaScript — sometimes with quiz challenges, healing systems, and battles against quirky enemies.
 
-📘 Explain Like You’re 10
-Confused by addEventListener? Or this in JavaScript? It breaks it down clearly, step by step.
+🌐 Interactive Websites
+I design and build full pages with animations, dark/light modes, interactive buttons, and even weird experimental layouts just to test what’s possible.
 
-🧪 Test You with Challenges
-It can quiz you, give mini coding problems, or help you prep for tests and interviews.
+💡 Learning Tools
+I’m all about building tools that help others learn — like quizzes, coding sandboxes, and even fake terminals that answer questions.
 
-🛠️ Debug Mode
-Drop in an error message — it’ll tell you what it means and how to fix it (no Stack Overflow diving needed).
+🛠️ I Love Working With:
+HTML / CSS / JavaScript
 
-🧨 Built From the Wreckage
-CodeBuddy was born when ChatGPT threw out a code mess so bad, I had to build a bot just to fix it. That turned into a smart, funny, and actually helpful coding companion. Every glitch was a lesson. Every fix became a feature.
+AI + logic systems
 
-Now it helps others learn, debug, and level up — faster and with fewer tears. 😄
+Interactive UI/UX
+
+Code debugging tools
+
+Fun twists on boring tech
