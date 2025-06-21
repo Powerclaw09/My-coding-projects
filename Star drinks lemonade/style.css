@@ -1,0 +1,163 @@
+a{
+    color:white !important;
+    text-decoration: none !important;
+    margin: 2rem !important;
+    font-size: 1.9rem !important;
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center !important;
+    padding: 14px 20px !important;
+    text-decoration: none !important;
+    text-align: center !important;
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+}
+.navbar{
+    box-shadow: 1px 3px 3px white !important;
+    border-radius: 20px;
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center !important;
+    margin: 0rem 0rem !important;
+    white-space: nowrap !important;
+width: 1079px !important;
+height: 340px !important;
+color: white !important;
+
+}
+img{
+    height: 12.5rem !important;
+justify-content: center !important;
+align-items: center !important;
+text-align: center !important;
+padding-top : 3rem !important;
+margin: 2em !important;
+padding: left 1rem !important;
+
+}
+.text{
+justify-content: center  !important;
+align-items: center !important;
+text-align: center !important;
+padding: 2rem !important;
+font-size:4rem !important; 
+padding-top: 0rem !important;
+position: relative !important;
+margin: 1rem !important;
+display: inline !important;
+padding-top: 3rem !important;
+margin-top: 2rem !important;
+margin-top: 4rem !important;
+color: #ffff;
+}
+h4{
+    padding-top: 4rem !important;
+    font-family: cursive !important;
+}
+
+button{
+    position: absolute  !important;
+    padding: 1rem  !important;
+  
+    margin: 2rem  !important;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif  !important;
+    border: none  !important;
+    cursor: pointer  !important;
+    display: flex   !important;
+    width: 85.5687px  !important;
+height: 47.2px  !important;
+margin: 32px  ;
+padding: 16px ;
+background-color: whitesmoke ;
+border: none ; /* Remove borders */
+color: black ; /* black text */
+padding: 15px 32px ; /* Some padding */
+text-align: center ; /* Centered text */
+text-decoration: none ; /* Remove underline */
+display: inline-block ; /* Make the button fit the link */
+font-size: 16px ; /* Increase font size */
+cursor: pointer ; /* Pointer/hand icon */
+border-radius: 4px ;
+align-items: center ;
+justify-content: center ;
+padding: 0px ;
+text-align: center;
+}
+button:hover{
+    background-color:  lightblue  ;
+}
+#lemonade{
+    margin-top: 4rem ;
+    color: ;
+}
+iframe{
+    height: 100vh ;
+    width: 100vw ;
+}
+@media (max-width : 768px) {
+    .navbar a {
+        padding: 10px 14px ; /* Adjust padding for smaller screens */
+        width: auto ;}
+    }
+    #KGCA {
+        border: 2px solid white ;
+        position: absolute ;
+        top: 50% ;
+        left: 50% ;
+        transform: translate(-50%, -50%) ;
+      }
+      
+#KGCA:hover{
+    background-color: teal ;
+    white-space: nowrap ;
+    position: relative ;
+    justify-content: center ;
+    align-items: center ;
+    text-align: center ; 
+    padding: 1rem ;
+
+}
+.about{
+    display: block ;
+    margin-top: 5rem ;
+    width: 292.977px ;
+height: 219.727px ;
+margin: 0px 0px 0px -1.5625px ;
+display: block ;
+box-sizing: border-box;
+font-size: 16px ;
+
+font-weight: 400 ;
+color: 
+#ffff;
+width: 836px;
+height: 267.727px ;
+padding: 24px 0px ;
+display: table ;
+box-sizing: border-box ;
+position: relative ;
+font-size: 16px ;
+
+font-weight: 400 ;
+color:white ;
+}
+   .KGCAimg{
+    position: inherit ;
+}
+
+  
+
+body{
+    background-color: black;
+    color: #ffff;
+}
+  form{
+    color: #ffff;
+    display: block;
+  }
+  img{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  
