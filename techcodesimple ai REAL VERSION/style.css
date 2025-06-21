@@ -1,0 +1,47 @@
+#chatbotdiv {
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 12px;
+    background-color: #444654;
+    color: white;
+}
+
+body {
+    background-color: #343541;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 95vh;
+}
+
+.sendimg {
+    wihdth: 45px;
+    height: 45px;
+}
+
+.ans {
+    color: white;
+    text-align: center;
+    font-size: 25.33px
+}
+
+input {
+    width: 300px;
+    border: none;
+    outline: none;
+    background-color: white;
+    color: black;
+    font-size: 16px;
+    border-radius: 12px;
+    display: inline;
+    margin: 10px;
+}
+
+.answer124 {
+    border: whitesmoke 3px solid;
+    border-radius: 25px;
+    margin-top: 20px;
+}
