@@ -1,1 +1,1 @@
-
+This is a non-working websitte that is not accesible from the web. It is the first website of techcodesimple. If you would like to acess the real version copy paste this link: https://www.techcodesimple.com 
