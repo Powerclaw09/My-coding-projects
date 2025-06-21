@@ -1,0 +1,41 @@
+body,
+html {
+    text-align: center;
+
+}
+
+
+
+.bigai {
+    border: 1px solid black;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.ai {
+    border: 1px solid black;
+    border-radius: 25px;
+    box-sizing: border-box;
+}
+
+.Iam {
+    text-decoration: none;
+    color: white;
+    ;
+}
+
+.svg1 {
+
+    position: fixed;
+    /* Sticks it to the viewport */
+    top: 20px;
+    /* Adds margin from the top */
+    right: 35px;
+    /* Adds margin from the right */
+    width: 20px;
+    /* Adjust size as needed */
+    height: auto;
+    /* Maintain aspect ratio */
+}
+
+.vid2 {}
